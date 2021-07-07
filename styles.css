@@ -1,0 +1,16 @@
+body {
+    background-color:beige;
+    width: 100vw;
+    height: 100vh;
+}
+
+ #images {  
+   
+   display: flex;
+   flex-wrap: wrap;   
+}
+
+ li {
+   list-style-type: none;   
+   margin-right: 5px;
+ }
